@@ -1,0 +1,21 @@
+{
+  "name": "color_clock_lab",
+  "version": "1.0.0",
+  "description": "flatiron_lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "ehco 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-lab"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "jacob_marthaller",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
